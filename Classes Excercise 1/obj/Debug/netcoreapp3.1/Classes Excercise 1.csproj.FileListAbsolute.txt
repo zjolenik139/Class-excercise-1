@@ -1,0 +1,14 @@
+C:\Users\zjole\Desktop\repos\Classes Excercise 1\Classes Excercise 1\obj\Debug\netcoreapp3.1\Classes Excercise 1.csproj.AssemblyReference.cache
+C:\Users\zjole\Desktop\repos\Classes Excercise 1\Classes Excercise 1\obj\Debug\netcoreapp3.1\Classes Excercise 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zjole\Desktop\repos\Classes Excercise 1\Classes Excercise 1\obj\Debug\netcoreapp3.1\Classes Excercise 1.AssemblyInfoInputs.cache
+C:\Users\zjole\Desktop\repos\Classes Excercise 1\Classes Excercise 1\obj\Debug\netcoreapp3.1\Classes Excercise 1.AssemblyInfo.cs
+C:\Users\zjole\Desktop\repos\Classes Excercise 1\Classes Excercise 1\obj\Debug\netcoreapp3.1\Classes Excercise 1.csproj.CoreCompileInputs.cache
+C:\Users\zjole\Desktop\repos\Classes Excercise 1\Classes Excercise 1\bin\Debug\netcoreapp3.1\Classes Excercise 1.exe
+C:\Users\zjole\Desktop\repos\Classes Excercise 1\Classes Excercise 1\bin\Debug\netcoreapp3.1\Classes Excercise 1.deps.json
+C:\Users\zjole\Desktop\repos\Classes Excercise 1\Classes Excercise 1\bin\Debug\netcoreapp3.1\Classes Excercise 1.runtimeconfig.json
+C:\Users\zjole\Desktop\repos\Classes Excercise 1\Classes Excercise 1\bin\Debug\netcoreapp3.1\Classes Excercise 1.runtimeconfig.dev.json
+C:\Users\zjole\Desktop\repos\Classes Excercise 1\Classes Excercise 1\bin\Debug\netcoreapp3.1\Classes Excercise 1.dll
+C:\Users\zjole\Desktop\repos\Classes Excercise 1\Classes Excercise 1\bin\Debug\netcoreapp3.1\Classes Excercise 1.pdb
+C:\Users\zjole\Desktop\repos\Classes Excercise 1\Classes Excercise 1\obj\Debug\netcoreapp3.1\Classes Excercise 1.dll
+C:\Users\zjole\Desktop\repos\Classes Excercise 1\Classes Excercise 1\obj\Debug\netcoreapp3.1\Classes Excercise 1.pdb
+C:\Users\zjole\Desktop\repos\Classes Excercise 1\Classes Excercise 1\obj\Debug\netcoreapp3.1\Classes Excercise 1.genruntimeconfig.cache
